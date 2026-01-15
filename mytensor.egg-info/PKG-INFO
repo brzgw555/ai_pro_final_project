@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: mytensor
+Version: 0.0.1
+Author: your_name
+Author-email: your_name@pku.edu.cn
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Requires-Dist: torch
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python

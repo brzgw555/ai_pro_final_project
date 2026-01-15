@@ -1,0 +1,253 @@
+CUDA is available, Total GPUs detected: 2
+Using single GPU only: Tesla T4
+Epoch 1
+-------------------------------
+loss: 2.330619  [    0/50000]
+loss: 1.976177  [20000/50000]
+loss: 1.619733  [40000/50000]
+Train Error: 
+ Accuracy: 27.6%, Avg loss: 1.921717 
+
+Epoch 1 Train Time Cost: 0m 28.84s
+Test Error: 
+ Accuracy: 47.0%, Avg loss: 1.474927 
+
+Epoch 2
+-------------------------------
+loss: 1.587292  [    0/50000]
+loss: 1.402196  [20000/50000]
+loss: 1.186666  [40000/50000]
+Train Error: 
+ Accuracy: 49.9%, Avg loss: 1.385498 
+
+Epoch 2 Train Time Cost: 0m 28.67s
+Test Error: 
+ Accuracy: 55.5%, Avg loss: 1.234792 
+
+Epoch 3
+-------------------------------
+loss: 1.139839  [    0/50000]
+loss: 1.200680  [20000/50000]
+loss: 1.067403  [40000/50000]
+Train Error: 
+ Accuracy: 61.4%, Avg loss: 1.102398 
+
+Epoch 3 Train Time Cost: 0m 28.49s
+Test Error: 
+ Accuracy: 64.4%, Avg loss: 1.002899 
+
+Epoch 4
+-------------------------------
+loss: 0.884724  [    0/50000]
+loss: 0.887925  [20000/50000]
+loss: 0.893517  [40000/50000]
+Train Error: 
+ Accuracy: 68.9%, Avg loss: 0.907620 
+
+Epoch 4 Train Time Cost: 0m 28.64s
+Test Error: 
+ Accuracy: 68.2%, Avg loss: 0.916428 
+
+Epoch 5
+-------------------------------
+loss: 0.759452  [    0/50000]
+loss: 0.795853  [20000/50000]
+loss: 0.607652  [40000/50000]
+Train Error: 
+ Accuracy: 74.7%, Avg loss: 0.753041 
+
+Epoch 5 Train Time Cost: 0m 28.61s
+Test Error: 
+ Accuracy: 67.5%, Avg loss: 1.014459 
+
+Epoch 6
+-------------------------------
+loss: 0.584855  [    0/50000]
+loss: 0.540163  [20000/50000]
+loss: 0.541337  [40000/50000]
+Train Error: 
+ Accuracy: 79.9%, Avg loss: 0.600731 
+
+Epoch 6 Train Time Cost: 0m 28.47s
+Test Error: 
+ Accuracy: 71.5%, Avg loss: 0.915630 
+
+Epoch 7
+-------------------------------
+loss: 0.482787  [    0/50000]
+loss: 0.715678  [20000/50000]
+loss: 0.527697  [40000/50000]
+Train Error: 
+ Accuracy: 83.9%, Avg loss: 0.486076 
+
+Epoch 7 Train Time Cost: 0m 28.61s
+Test Error: 
+ Accuracy: 71.7%, Avg loss: 0.922257 
+
+Epoch 8
+-------------------------------
+loss: 0.382528  [    0/50000]
+loss: 0.399371  [20000/50000]
+loss: 0.415335  [40000/50000]
+Train Error: 
+ Accuracy: 86.8%, Avg loss: 0.407409 
+
+Epoch 8 Train Time Cost: 0m 28.66s
+Test Error: 
+ Accuracy: 72.7%, Avg loss: 0.917589 
+
+Epoch 9
+-------------------------------
+loss: 0.474347  [    0/50000]
+loss: 0.235809  [20000/50000]
+loss: 0.523163  [40000/50000]
+Train Error: 
+ Accuracy: 89.5%, Avg loss: 0.328132 
+
+Epoch 9 Train Time Cost: 0m 28.81s
+Test Error: 
+ Accuracy: 75.1%, Avg loss: 0.914684 
+
+Epoch 10
+-------------------------------
+loss: 0.274845  [    0/50000]
+loss: 0.394421  [20000/50000]
+loss: 0.277143  [40000/50000]
+Train Error: 
+ Accuracy: 91.3%, Avg loss: 0.272902 
+
+Epoch 10 Train Time Cost: 0m 28.69s
+Test Error: 
+ Accuracy: 72.6%, Avg loss: 1.005209 
+
+Epoch 11
+-------------------------------
+loss: 0.266237  [    0/50000]
+loss: 0.168039  [20000/50000]
+loss: 0.151364  [40000/50000]
+Train Error: 
+ Accuracy: 93.6%, Avg loss: 0.206057 
+
+Epoch 11 Train Time Cost: 0m 28.58s
+Test Error: 
+ Accuracy: 74.8%, Avg loss: 0.951015 
+
+Epoch 12
+-------------------------------
+loss: 0.112620  [    0/50000]
+loss: 0.185206  [20000/50000]
+loss: 0.172433  [40000/50000]
+Train Error: 
+ Accuracy: 95.1%, Avg loss: 0.163615 
+
+Epoch 12 Train Time Cost: 0m 28.45s
+Test Error: 
+ Accuracy: 76.1%, Avg loss: 0.983708 
+
+Epoch 13
+-------------------------------
+loss: 0.192142  [    0/50000]
+loss: 0.116738  [20000/50000]
+loss: 0.125080  [40000/50000]
+Train Error: 
+ Accuracy: 95.9%, Avg loss: 0.138550 
+
+Epoch 13 Train Time Cost: 0m 28.67s
+Test Error: 
+ Accuracy: 75.0%, Avg loss: 1.045742 
+
+Epoch 14
+-------------------------------
+loss: 0.084381  [    0/50000]
+loss: 0.228161  [20000/50000]
+loss: 0.088271  [40000/50000]
+Train Error: 
+ Accuracy: 96.2%, Avg loss: 0.127099 
+
+Epoch 14 Train Time Cost: 0m 28.83s
+Test Error: 
+ Accuracy: 76.6%, Avg loss: 0.985452 
+
+Epoch 15
+-------------------------------
+loss: 0.077377  [    0/50000]
+loss: 0.116849  [20000/50000]
+loss: 0.109011  [40000/50000]
+Train Error: 
+ Accuracy: 97.0%, Avg loss: 0.100698 
+
+Epoch 15 Train Time Cost: 0m 28.72s
+Test Error: 
+ Accuracy: 75.7%, Avg loss: 1.130251 
+
+Epoch 16
+-------------------------------
+loss: 0.067512  [    0/50000]
+loss: 0.071435  [20000/50000]
+loss: 0.032060  [40000/50000]
+Train Error: 
+ Accuracy: 97.9%, Avg loss: 0.072192 
+
+Epoch 16 Train Time Cost: 0m 28.69s
+Test Error: 
+ Accuracy: 75.1%, Avg loss: 1.231215 
+
+Epoch 17
+-------------------------------
+loss: 0.031880  [    0/50000]
+loss: 0.100079  [20000/50000]
+loss: 0.047406  [40000/50000]
+Train Error: 
+ Accuracy: 98.1%, Avg loss: 0.068728 
+
+Epoch 17 Train Time Cost: 0m 28.65s
+Test Error: 
+ Accuracy: 77.4%, Avg loss: 1.047361 
+
+Epoch 18
+-------------------------------
+loss: 0.030727  [    0/50000]
+loss: 0.040539  [20000/50000]
+loss: 0.059669  [40000/50000]
+Train Error: 
+ Accuracy: 98.7%, Avg loss: 0.047374 
+
+Epoch 18 Train Time Cost: 0m 28.74s
+Test Error: 
+ Accuracy: 77.2%, Avg loss: 1.188932 
+
+Epoch 19
+-------------------------------
+loss: 0.050706  [    0/50000]
+loss: 0.010447  [20000/50000]
+loss: 0.021060  [40000/50000]
+Train Error: 
+ Accuracy: 98.9%, Avg loss: 0.039109 
+
+Epoch 19 Train Time Cost: 0m 28.57s
+Test Error: 
+ Accuracy: 78.4%, Avg loss: 1.108444 
+
+Epoch 20
+-------------------------------
+loss: 0.032031  [    0/50000]
+loss: 0.043826  [20000/50000]
+loss: 0.075170  [40000/50000]
+Train Error: 
+ Accuracy: 98.6%, Avg loss: 0.050777 
+
+Epoch 20 Train Time Cost: 0m 28.68s
+Test Error: 
+ Accuracy: 77.1%, Avg loss: 1.178130 
+
+
+Total Training Time: 10m 37.54s
+Finish!
+
+
+
+    
+
+
+
+
